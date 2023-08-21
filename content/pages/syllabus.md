@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, group projects, field trips, recitations, and plagiarism
+  policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -83,7 +86,7 @@ _Final Media Project_
 
 {{< tableclose >}}
 
-Details of assignments can be found under the dates they are due on the class [calendar]({{< baseurl >}}/pages/calendar).
+Details of assignments can be found under the dates they are due on the class {{% resource_link ebeb9252-9070-0955-c900-df7c35d8e457 "calendar" %}}.
 
 Class attendance and participation are required. Assigned reading must be done in time for the class for which is it assigned. Suggested readings are elective. Recitation sessions and evening labs are mandatory. All written assignments are to by typed, including notes for recitation.
 
