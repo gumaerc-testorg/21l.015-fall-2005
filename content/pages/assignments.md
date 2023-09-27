@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about media assignments, class presentations,
+  and papers.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: 8244a223-ea79-7204-eb5d-16163a4b324a
 ---
 
-Guidelines for Writing Papers ([PDF]({{< baseurl >}}/resources/guide_papers))
+Guidelines for Writing Papers ({{% resource_link b7a09578-2817-5890-cb4c-98f3d3ea8c09 "PDF" %}})
 
 Media Assignment 1 - Class Media Studies Wiki
 ---------------------------------------------
