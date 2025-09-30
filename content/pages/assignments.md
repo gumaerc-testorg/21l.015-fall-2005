@@ -40,23 +40,23 @@ Presentation should be between 7-10 minutes in length.
 The oral presentations should address one of the class wiki definitions as well as a topic in new media formats.
 
 1.  The group should edit an entry on the class wiki site, post the edited definition to site, and include this posting as part of the oral presentation. (Media formats other than text may be included in the posting.)
-2.  The presentation should include an investigation of and report on a new media format or genre of interest to the group. For example, a discussion of the technology behind or the use of the following applications would be an appropriate subject: history of search engines, history of Internet, Blogs, wiki, sms and the new media-rich models for telephones, RSS, blogs, "identity sites" such as Friendster, and My Space, Napster, game mods (see [QQQ](http://en.wikipedia.org/wiki/Seven_Central) for an interesting example).
+2.  The presentation should include an investigation of and report on a new media format or genre of interest to the group. For example, a discussion of the technology behind or the use of the following applications would be an appropriate subject: history of search engines, history of Internet, Blogs, wiki, sms and the new media-rich models for telephones, RSS, blogs, "identity sites" such as Friendster, and My Space, Napster, game mods (see {{% resource_link "56f50b90-f4ff-4cb5-8d9e-c93c40b56acb" "QQQ" %}} for an interesting example).
 
 Suggested reading for the presentations includes:
 
-Shaviro, Steven. _Connected, Or What it Means to Live in the Network Society._ Minneapolis, MN: Minnesota Press, 2003, pp. 1-50. ISBN: 0816643636. ([Steven Shaviro](http://www.shaviro.com/))
+Shaviro, Steven. _Connected, Or What it Means to Live in the Network Society._ Minneapolis, MN: Minnesota Press, 2003, pp. 1-50. ISBN: 0816643636. ({{% resource_link "27caa8cc-de49-4c98-a563-752023d10086" "Steven Shaviro" %}})
 
 Prigogine, Ilya, and Isabelle Stengers. _Order Out of Chaos._ New York, NY: Bantam, 1984.
 
 Barabasi, Albert-Laszlo. _Linked: How Everything Is Connected to Everything Else and What It Means_. New York, NY: Plume, 2003.
 
-[Wikipedia](http://www.wikipedia.org/)
+{{% resource_link "8551abc0-14f3-48d0-ab24-4e6439d31e44" "Wikipedia" %}}
 
-[Public Library of Science](http://www.plos.org/)
+{{% resource_link "06042dfb-67c2-44a6-be3e-3938a2aaa1d5" "Public Library of Science" %}}
 
-[Rheingold](http://www.rheingold.com/)
+{{% resource_link "96143043-2646-42e6-8246-44455a11a5b7" "Rheingold" %}}
 
-[Smart Mobs](http://www.smartmobs.com/)
+{{% resource_link "343c370c-fd04-4713-b38d-d8c2141ad25b" "Smart Mobs" %}}
 
 Paper 2
 -------
@@ -65,23 +65,23 @@ The assignment is to write a 5-7 pages on an independent research topic. For for
 
 All papers must use at least 3 reference sources. The relevance, accuracy, and source of the reference material as it pertains to the paper topic are to be gauged by the student. The purpose of the library orientation class and our discussions in lecture and recitation about valid references should be taken into account when choosing sources, as they will be taken into account in the grading of the paper.
 
-Suggested topic for the paper: An investigation of and report on a new media format or genre. For example, a discussion of the technology behind or the use of the following applications would be an appropriate subject: history of search engines, history of Internet, Blogs, wiki, sms and the new media-rich models for telephones, RSS, blogs, "identity sites" such as Friendster, and My Place, Napster, game mods (see [QQQ](http://en.wikipedia.org/wiki/Seven_Central) for an interesting example).
+Suggested topic for the paper: An investigation of and report on a new media format or genre. For example, a discussion of the technology behind or the use of the following applications would be an appropriate subject: history of search engines, history of Internet, Blogs, wiki, sms and the new media-rich models for telephones, RSS, blogs, "identity sites" such as Friendster, and My Place, Napster, game mods (see {{% resource_link "56f50b90-f4ff-4cb5-8d9e-c93c40b56acb" "QQQ" %}} for an interesting example).
 
 Suggested reading for the paper includes:
 
-Shaviro, Steven. _Connected, Or What it Means to Live in the Network Society_. Minneapolis, MN: Minnesota Press, 2003, pp. 1-50. ISBN: 0816643636. ([Steven Shaviro](http://www.shaviro.com/))
+Shaviro, Steven. _Connected, Or What it Means to Live in the Network Society_. Minneapolis, MN: Minnesota Press, 2003, pp. 1-50. ISBN: 0816643636. ({{% resource_link "27caa8cc-de49-4c98-a563-752023d10086" "Steven Shaviro" %}})
 
 Prigogine, Ilya, and Isabelle Stengers. _Order Out of Chaos._ New York, NY: Bantam, 1984.
 
 Barabasi, Albert-Laszlo. _Linked: How Everything Is Connected to Everything Else and What It Means_. New York, NY: Plume, 2003.
 
-[Wikipedia](http://www.wikipedia.org/)
+{{% resource_link "8551abc0-14f3-48d0-ab24-4e6439d31e44" "Wikipedia" %}}
 
-[Public Library of Science](http://www.plos.org/)
+{{% resource_link "06042dfb-67c2-44a6-be3e-3938a2aaa1d5" "Public Library of Science" %}}
 
-[Rheingold](http://rheingold.com/)
+{{% resource_link "5d3d1158-30c5-43de-a446-1a0337bbeede" "Rheingold" %}}
 
-[Smart Mobs](http://www.smartmobs.com/)
+{{% resource_link "343c370c-fd04-4713-b38d-d8c2141ad25b" "Smart Mobs" %}}
 
 Paper 3
 -------
