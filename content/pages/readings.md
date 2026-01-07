@@ -44,7 +44,7 @@ Lab 1
 {{< tdclose >}}{{< tdopen >}}
 *The Society of Spectacle* Screening
 {{< tdclose >}}{{< tdopen >}}
-Debord, Guy. {{% resource_link "a8725de9-c219-4df2-b948-62774fb7b077" "*La Société du spectacle*" %}}, 1973.
+Debord, Guy. [*La Société du spectacle*](http://www.imdb.com/title/tt0070712/), 1973.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L3
 {{< tdclose >}}{{< tdopen >}}
@@ -53,7 +53,7 @@ Origins of Media and Media Theory
 
 Benjamin, Walter. "The Work of Art in the Age of Mechanical Reproduction." In *Illuminations.* New York, NY: Schocken Books, 1968, pp. 217-251.
 
-Debord, Guy-Ernest. {{% resource_link "e75db0d4-bf3a-4201-8117-1a381bd8124b" "*Society of the Spectacle*" %}}. Detroit, MI: Black and Red, 1983, parts 1-42. ISBN: 0934868077.
+Debord, Guy-Ernest. [*Society of the Spectacle*](http://library.nothingness.org/articles/all/en/display/16). Detroit, MI: Black and Red, 1983, parts 1-42. ISBN: 0934868077.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 R2
@@ -66,7 +66,7 @@ Lab 2
 {{< tdclose >}}{{< tdopen >}}
 *Blade Runner* Screening
 {{< tdclose >}}{{< tdopen >}}
-Scott, Ridley. {{% resource_link "5a650f18-2e85-4341-ab83-3022e0a40ae4" "*Blade Runner*" %}}, 1982.
+Scott, Ridley. [*Blade Runner*](http://www.imdb.com/title/tt0083658/), 1982.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L4
 {{< tdclose >}}{{< tdopen >}}
@@ -91,9 +91,9 @@ Media is the Message / Simulacra and Simulation
 
 Baudrillard, Jean. *Simulacra and Simulation*. Ann Arbor, MI: University of Michigan Press, 1994. ISBN: 0472065211.
 
-{{% resource_link "b4a21b04-82ae-4037-a059-db6859a07064" "Herbert Marshall McLuhan" %}}
+[Herbert Marshall McLuhan](http://marshallmcluhan.com/biography/)
 
-Wikipedia contributors. "{{% resource_link "94399a0c-4772-48be-ac03-c7bc27bd82ec" "Simulacra and Simulation" %}}." Wikipedia, The Free Encyclopedia.
+Wikipedia contributors. "[Simulacra and Simulation](https://en.wikipedia.org/wiki/Simulacra_and_Simulation)." Wikipedia, The Free Encyclopedia.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 R3
@@ -112,7 +112,7 @@ Lab 3
 {{< tdclose >}}{{< tdopen >}}
 *Battle of Algiers* Screening
 {{< tdclose >}}{{< tdopen >}}
-Pontecorvo, Gillo. {{% resource_link "33270eba-51bc-446e-96f8-31ad5763930a" "*La Battaglia di Algeri (The Battle of Algiers)*" %}}, 1965.
+Pontecorvo, Gillo. [*La Battaglia di Algeri (The Battle of Algiers)*](http://www.imdb.com/title/tt0058946/), 1965.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L7
 {{< tdclose >}}{{< tdopen >}}
@@ -130,7 +130,7 @@ Lab 4
 {{< tdclose >}}{{< tdopen >}}
 *eXistenZ* Screening
 {{< tdclose >}}{{< tdopen >}}
-Cronenberg, David. {{% resource_link "ab47bbb9-ff01-4e0c-8603-2cad141aa40b" "*eXistenZ*" %}}, 1999.
+Cronenberg, David. [*eXistenZ*](http://www.imdb.com/title/tt0120907/), 1999.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L8
 {{< tdclose >}}{{< tdopen >}}
@@ -148,7 +148,7 @@ Lab 5
 {{< tdclose >}}{{< tdopen >}}
 *Dial H-I-S-T-O-R-Y* Screening
 {{< tdclose >}}{{< tdopen >}}
-Grimonprez, Johan. {{% resource_link "4a595e2f-8f70-4e65-b623-23338307c26c" "*Dial H-I-S-T-O-R-Y*" %}}, 1998.
+Grimonprez, Johan. [*Dial H-I-S-T-O-R-Y*](http://www.imdb.com/title/tt0367655/), 1998.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L9
 {{< tdclose >}}{{< tdopen >}}
@@ -167,9 +167,9 @@ Epstein, Richard. "The Creators Own Ideas." *Technology Review* 108, no. 6 (June
 
 *Suggested Reading*
 
-{{% resource_link "6bd7ab13-4a00-40a7-ab86-cf6fc5073fba" "Creative Commons" %}}
+[Creative Commons](http://creativecommons.org/)
 
-Wark, McKenzie. "{{% resource_link "9d7c54c1-6fca-474d-8ce8-9799f26b343e" "Hacker Manifesto \[version 4.0\]" %}}." *Subsol*.
+Wark, McKenzie. "[Hacker Manifesto \[version 4.0\]](http://subsol.c3.hu/subsol_2/contributors0/warktext.html)." *Subsol*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 R7
@@ -182,7 +182,7 @@ Lab 6
 {{< tdclose >}}{{< tdopen >}}
 *Sonic Outlaws* Screening
 {{< tdclose >}}{{< tdopen >}}
-Baldwin, Craig. {{% resource_link "7b5be48d-f0cb-48b6-96fa-f4321e063704" "*Sonic Outlaws*" %}}, 1995.
+Baldwin, Craig. [*Sonic Outlaws*](http://imdb.com/title/tt0114500/), 1995.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L10
 {{< tdclose >}}{{< tdopen >}}
@@ -192,7 +192,7 @@ Audio Media: History of Mechanical Audio
 Guest Lectur by Lisa Gitelman
 
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "2aecad44-23f1-4a32-8444-509715d100b5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gitelman, Lisa. "How Users Define New Media: A History of the Amusement Phonograph." In {{% resource_link "2aecad44-23f1-4a32-8444-509715d100b5" "*Rethinking Media Change*" %}}. Edited by David Thorburn and Henry Jenkins. Cambridge, MA: MIT Press, 2004, pp. 61-79. ISBN: 0262701073.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/rethinking-media-change) Gitelman, Lisa. "How Users Define New Media: A History of the Amusement Phonograph." In [*Rethinking Media Change*](https://mitpress.mit.edu/books/rethinking-media-change). Edited by David Thorburn and Henry Jenkins. Cambridge, MA: MIT Press, 2004, pp. 61-79. ISBN: 0262701073.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 R8
 {{< tdclose >}}{{< tdopen >}}
@@ -205,7 +205,7 @@ L11
 Television's Past, the Actualization of Mass Media
 {{< tdclose >}}{{< tdopen >}}
 
-Uricchio, William. "{{% resource_link "b1df8d25-23b7-490a-af6b-2b91c708ceb4" "The Trouble with Television" %}}." *Screening The Past*, no. 4 (1998). (First Release)
+Uricchio, William. "[The Trouble with Television](http://tlweb.latrobe.edu.au/humanities/screeningthepast/firstrelease/fir998/WUfr4b.htm)." *Screening The Past*, no. 4 (1998). (First Release)
 
 Hirschberg, Lynn. "Giving Them What They Want." *New York Times Magazine,* September 4, 2005, 29-35, 50, and 54-55.
 
@@ -236,7 +236,7 @@ Lab 7
 {{< tdclose >}}{{< tdopen >}}
 *Eyes on the Prize* Screening
 {{< tdclose >}}{{< tdopen >}}
-Hampton, Henry. {{% resource_link "6467fee8-3a61-412d-8b34-bf1a10bc9bf7" "*Eyes on the Prize*" %}}, 1987. (Television images of broadcast of civil rights movement.)
+Hampton, Henry. [*Eyes on the Prize*](http://imdb.com/title/tt0092999/), 1987. (Television images of broadcast of civil rights movement.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L12
 {{< tdclose >}}{{< tdopen >}}
@@ -253,13 +253,13 @@ Russolo, Luigi. "The Art of Noises, Futurist Manifesto." In *Audio Culture*. Edi
 
 *Video Selections to be Screened in Class*
 
-Cunningham, Chris. {{% resource_link "b66c126d-008a-4d6c-80bf-f4a9a1551f55" "*Windowlicker*" %}}, 1999.
+Cunningham, Chris. [*Windowlicker*](http://www.dailymotion.com/video/xkzwi_chris-cunningham-windowlicker), 1999.
 
-———. {{% resource_link "37c7d7bb-78ae-4474-b3d3-eba7fbddda48" "*Björk: All is full of Love*" %}}, Music video.
+———. [*Björk: All is full of Love*](http://www.contactmusic.com/pages/bjorkx13x12x02), Music video.
 
-Williams, Hype. {{% resource_link "0c41beb3-c027-46c9-a4d4-93bfa6b1666a" "*Belly*" %}}, 1998. (Excerpt)
+Williams, Hype. [*Belly*](http://imdb.com/title/tt0158493/), 1998. (Excerpt)
 
-Gondry, Michel. {{% resource_link "f78a6d99-eb8a-4710-90ab-e785ef021d65" "*Eternal Sunshine of the Spotless Mind*" %}}, 2004.
+Gondry, Michel. [*Eternal Sunshine of the Spotless Mind*](http://www.imdb.com/title/tt0338013/), 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L13
